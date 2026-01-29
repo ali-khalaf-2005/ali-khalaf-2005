@@ -71,35 +71,13 @@ I'm <b>Ali Khalaf</b>, a <b>Cloud, DevOps & System Engineer</b> from
 
 ---
 
-<h3>📚 Currently Learning</h3>
-
-<ul>
-  <li>Advanced AWS & Cloud Architecture</li>
-  <li>Kubernetes & Container Orchestration</li>
-  <li>Terraform (Infrastructure as Code)</li>
-  <li>DevOps Monitoring & Observability</li>
-</ul>
-
----
-
-<h3>🌍 Career Goals</h3>
-
-<p>
-✔ Cloud / DevOps / System Engineer <br/>
-✔ Design, automate & operate infrastructure <br/>
-✔ Reliability, scalability & efficiency <br/>
-✔ Work with global teams
-</p>
-
----
-
 <h3>📫 Where to find me</h3>
 
 <p>
-  <a href="https://github.com/YOUR_GITHUB_USERNAME" target="_blank">
+  <a href="https://github.com/ali-khalaf-2005" target="_blank">
     <img alt="GitHub" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="https://www.linkedin.com/in/YOUR_LINKEDIN" target="_blank">
+  <a href="https://www.linkedin.com/in/ali-khalaf-87776328a/" target="_blank">
     <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
