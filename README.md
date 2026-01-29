@@ -6,7 +6,7 @@
 <p>
 Welcome to my GitHub profile! <br/>
 I'm <b>Ali Khalaf</b>, a <b>Cloud, DevOps & System Engineer</b> from 
-<img src="[https://cdn-icons-png.flaticon.com/512/197/197571.png](https://en.wikipedia.org/wiki/Flag_of_Egypt)" width="13"/> <b>Egypt</b>.
+<img src="[[https://cdn-icons-png.flaticon.com/512/197/197571.png](https://en.wikipedia.org/wiki/Flag_of_Egypt)](https://pics.clipartpng.com/Egypt_Flag_PNG_Clip_Art-1847.png)" width="13"/> <b>Egypt</b>.
 </p>
 
 <p>
