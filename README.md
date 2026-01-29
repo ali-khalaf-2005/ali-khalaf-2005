@@ -6,7 +6,7 @@
 <p>
 Welcome to my GitHub profile! <br/>
 I'm <b>Ali Khalaf</b>, a <b>Cloud, DevOps & System Engineer</b> from 
-<img src="https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Egypt</b>.
+<img src"https://cdn-icons-png.flaticon.com/512/197/197571.png" width="13"/> <b>Egypt</b>.
 </p>
 
 <p>
